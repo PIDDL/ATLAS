@@ -8,8 +8,12 @@
 - Their evaluation file is showing fewer predicted entities compared to mine, and mine has higher probabilities for predicted entities when I ran `evaluate.py`, meaning my model is much more accurate.
 
 
+- Their predicted:
 
 ![- their predicted:](images/their%20predicted%20S3.png)
+
+
+- My predicted:
 
 ![- my predicted:](images/my%20predicted.png)
 
