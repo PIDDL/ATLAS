@@ -27,7 +27,7 @@
 
 - My resampled dataset: 
 
-![- my predicted:](images/my%20resampled.png
+![- my predicted:](images/my%20resampled.png)
 
 
 - Next step is to reproduce their paper experiments (experiment S3 for now) to see if any changes occur in the evaluation file, training, testing, and evaluation.
