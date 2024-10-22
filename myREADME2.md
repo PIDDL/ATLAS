@@ -18,5 +18,16 @@
 ![- my predicted:](images/my%20predicted.png)
 
 
+- file size for resampled dataset for me is different than theirs and their my training time less as compared to theirs
+
+- Their resampled dataset:
+
+![- their predicted:](images/their%20resampled.png)
+
+
+- My resampled dataset: 
+
+![- my predicted:](images/my%20resampled.png
+
 
 - Next step is to reproduce their paper experiments (experiment S3 for now) to see if any changes occur in the evaluation file, training, testing, and evaluation.
