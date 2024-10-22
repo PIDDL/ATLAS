@@ -31,3 +31,13 @@
 
 
 - Next step is to reproduce their paper experiments (experiment S3 for now) to see if any changes occur in the evaluation file, training, testing, and evaluation.
+
+- reproduced S4 using their paper experiments (their files); just trained and tested and getting results below:
+
+- Train stats:
+
+![- train time:](images/their%20S4%20reproduced%20train.png)
+
+- Evaluation :
+
+![eval:](images/their%20S4%20reproduced%20results%20.png)
